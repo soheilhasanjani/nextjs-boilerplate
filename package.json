@@ -25,6 +25,7 @@
     "react-redux": "^8.0.5",
     "react-select": "^5.7.0",
     "react-switch": "^7.0.0",
+    "react-tabs": "^6.0.0",
     "react-toastify": "^9.1.1",
     "react-truncate-markup": "^5.1.2",
     "yup": "^1.0.2"
